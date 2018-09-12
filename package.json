@@ -1,0 +1,27 @@
+{
+  "name": "koa_study",
+  "version": "1.0.0",
+  "description": "koa study",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harryhe1994/koa.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "harry he",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harryhe1994/koa/issues"
+  },
+  "homepage": "https://github.com/harryhe1994/koa#readme",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0"
+  }
+}
